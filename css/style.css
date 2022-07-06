@@ -1,0 +1,8 @@
+.card{
+    width: 90px;
+}
+.titllelog{
+    color: blue;
+    text-overflow: ellipsis;
+    text-align: center;
+}
